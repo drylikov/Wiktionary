@@ -1,5 +1,6 @@
 
 
+
 # Wiktionary .
 
 > Look up words on [wiktionary.org](https://www.wiktionary.org/) in English or any other language.
