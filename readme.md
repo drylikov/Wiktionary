@@ -11,6 +11,7 @@
 
 > Look up words on [wiktionary.org](https://www.wiktionary.org/) in English or any other language.
 
+
 Use it programmatically with JavaScript to fetch JSON, or use the command line interface (CLI) to look up words from your terminal.
 
 ## Programmatic Usage
